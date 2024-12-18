@@ -1,0 +1,21 @@
+Exercícios Básicos (1 a 10)
+
+1 - Criação de Classes Simples: Crie uma classe Carro com atributos como modelo, cor e ano. A classe deve ter um método ligar que imprime uma mensagem indicando que o carro está ligado.
+
+2 - Herança Básica: Crie uma classe Animal com o método fazerSom. Em seguida, crie duas subclasses: Cachorro e Gato, cada uma com uma implementação específica do método fazerSom.
+
+3 - Encapsulamento: Crie uma classe Pessoa com atributos privados como nome e idade. Crie métodos para acessar e modificar esses atributos (getNome, setNome, getIdade, setIdade).
+
+4 - Polimorfismo Simples: Crie uma classe Forma com um método area. Implemente duas subclasses, Circulo e Retangulo, que sobrescrevem o método area para calcular a área específica de cada forma.
+
+5 - Encapsulamento e Herança: Crie uma classe ContaBancaria com um atributo privado saldo e métodos para depositar e sacar. Em seguida, crie uma subclasse ContaPoupanca que adicione um método para calcular juros.
+
+6 - Herança e Polimorfismo: Crie uma classe Funcionario com um método salario. Implemente duas subclasses Gerente e Desenvolvedor, que sobrescrevem o método salario para calcular o salário de acordo com a função.
+
+7 - Encapsulamento e Getters/Setters: Crie uma classe Livro com atributos privados titulo e autor. Adicione métodos getTitulo e setTitulo, além de um método imprimirDetalhes que exibe os detalhes do livro.
+
+8 - Polimorfismo com Sobrecarga: Crie uma classe Calculadora que tenha um método somar. Implemente várias versões do método somar, que podem receber dois ou mais parâmetros.
+
+9 - Herança Simples e Polimorfismo: Crie uma classe Veiculo com um método mover. Em seguida, crie subclasses Carro e Bicicleta, onde cada uma implementa a movimentação de maneira diferente.
+
+10 - Encapsulamento de Dados: Crie uma classe Produto com um atributo privado preco. Implemente métodos para definir e obter o preço, mas certifique-se de que o preço nunca seja negativo.
